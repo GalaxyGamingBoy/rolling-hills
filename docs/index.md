@@ -13,5 +13,5 @@ _The Republic of Rolling Hills from above!_
 
 This is the official website of the Republic of Rolling Hills and all of the laws are going to be displayed here.
 
-To view the Constition of the Republic of Rolling Hills [click here](./legal/constitution.md)  
+To view the Constitution of the Republic of Rolling Hills [click here](./legal/constitution.md)  
 To learn more about Rolling Hills [click here](./about.md)
