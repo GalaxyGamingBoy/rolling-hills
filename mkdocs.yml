@@ -1,0 +1,34 @@
+site_name: Rolling Hills
+repo_url: https://github.com/GalaxyGamingBoy/rolling-hills
+repo_name: Website Repository
+plugins:
+    - search
+    - pdf-export
+markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - toc:
+          permalink: true
+theme:
+    name: material
+    features:
+        - navigation.footer
+    palette:
+        - scheme: default
+          toggle:
+              icon: material/brightness-7
+              name: Switch to dark mode
+
+        - scheme: slate
+          toggle:
+              icon: material/brightness-4
+              name: Switch to light mode
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Laws and Regulations:
+          - Constitution: legal/constitution.md
+          - Laws:
+                - 01-20230313: legal/laws/01-20230313.md
